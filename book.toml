@@ -1,0 +1,6 @@
+[book]
+authors = ["li"]
+language = "zh-cn"
+multilingual = false
+src = "src"
+title = "个人博客"
